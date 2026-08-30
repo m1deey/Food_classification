@@ -1,6 +1,4 @@
-# Food-101 Image Classifier 🍔🍰
-
-A deep learning image classifier that identifies 101 different food dishes from a photo, built with TensorFlow/Keras and deployed as a # 🍽️ Food-101 Image Classifier
+# 🍽️ Food-101 Image Classifier
 
 A deep learning image classifier that identifies 101 different food dishes from a photo, built with TensorFlow/Keras and deployed as a live web app.
 
@@ -33,7 +31,7 @@ A deep learning image classifier that identifies 101 different food dishes from 
 
 
 
-![Prediction example](Screenshot_20260830_162329_Chrome.jpg)
+![Prediction example](Images/Screenshot_20260830_162329_Chrome.jpg)
 
 
 
@@ -66,6 +64,7 @@ Steak plate correctly classified with 52.51% confidence — Food-101 doesn't hav
 - food101_mobilenetv2.keras — Trained model
 - classes.json — Class label mapping
 - requirements.txt — Dependencies
+- Images/ — Screenshots used in this README
 
 ---
 
