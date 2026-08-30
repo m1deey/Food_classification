@@ -33,7 +33,7 @@ A deep learning image classifier that identifies 101 different food dishes from 
 
 
 
-![Prediction example](Screenshot_20260830_161518_Chrome.jpg)
+![Prediction example](Screenshot_20260830_162329_Chrome.jpg)
 
 
 
